@@ -22,3 +22,9 @@ export enum lifeCycles {
   UNMOUNT = 'unmount',
   ERROR = 'error',
 }
+
+
+export enum microType {
+    GOBAL: 'gobal'
+
+}
